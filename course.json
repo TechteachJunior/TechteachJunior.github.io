@@ -1,0 +1,815 @@
+{ 
+  "week":[ 
+  {
+    "id": "one",
+    "name": "Juego de Gumball",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACRYuiFK7kDaXgBa7yhVTKLa/Im%C3%A1genes%20para%20el%20sitio%20web/lab_juegos_gumball.png?dl=1",
+    "description": "En esta clase van a crear un juego de Gumball. ¡Buena suerte!",
+    "level": "Intermedio",
+    "url": "https://studio.code.org/s/gumball/stage/1/puzzle/1",
+    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+  },
+  {
+    "id": "two",
+    "name": "Comparte tu mensaje",
+    "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADWXBkaISlKmDtlIxtdMm_la/Im%C3%A1genes%20para%20el%20sitio%20web/cd-first-google-square-black.png?dl=1",
+    "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABWP6lGAwFPVG8N9u11oTcDa/Im%C3%A1genes%20para%20el%20sitio%20web/hoc_public_service_announcement.png?dl=1",
+    "description": "Si quieres mejorar el mundo necesitas apoyo de tu comunidad. Crea un proyecto en el que pides a la gente que haga algo para apoyar una causa o problema que es importante para ti. ",
+    "level": "Intermedio",
+    "url": "https://csfirst.withgoogle.com/c/cs-first/en/pitch-your-passion/comparte-tu-pasi%C3%B3n-anuncio-de-servicio-p%C3%BAblico/anuncio-de-servicio-p%C3%BAblico.html",
+    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+  }
+  ],
+  "begin":[ 
+  {
+    "id": 1,
+    "name": "¿Cómo comenzar en Scratch?",
+    "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+    "image":"https://www.dropbox.com/s/ydwjeldznytvafa/como_comenzar.jpg?dl=1",
+    "description": "Tienes que prestar atención de donde provienen los bloques para utilizarlos en los siguientes cursos",
+    "level": "Fácil",
+    "url": "https://scratch.mit.edu/projects/editor/?tutorial=getStarted",
+    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+  },
+  {
+    "id": 2,
+    "name": "Crea una cuenta en Google",
+    "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADfFCleMO7CwmR3SQWPhCcSa/Im%C3%A1genes%20para%20el%20sitio%20web/google.png?dl=1",
+    "image":"https://www.dropbox.com/s/qs00ngfsal7z9ux/crear%20una%20cuenta.png?dl=1",
+    "description": "Crea tu propia cuenta en Google para poder utilizar sus aplicaciones. Si tienes menos de 13 años necesitarás permiso de tus padres para crearla.",
+    "level": "Fácil",
+    "url": "https://www.youtube.com/watch?v=dEwY4wAoaXk&feature=youtu.be",
+    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAA6StZ3yrSgADW2IPMdflnBa/Im%C3%A1genes%20para%20el%20sitio%20web/rectangle.png?dl=1"
+  },
+  {
+    "id": 3,
+    "name": "Fiesta de baile en Code.org",
+    "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+    "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAD8ITMj5n2qRwzeQzyOkOP_a/Im%C3%A1genes%20para%20el%20sitio%20web/codeorg-fiesta-de-baile-1.jpeg?dl=1",
+    "description": "Empieza a programar en la página code.org. ¡En esta primera clase creas una fiesta de baile!",
+    "level": "Fácil",
+    "url": "https://studio.code.org/s/dance-2019/stage/1/puzzle/1",
+    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+  },
+  {
+    "id": 4,
+    "name": "Minecraft",
+    "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+    "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABf9vl08AYXoY1DAqNd18vAa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_inicio.jpg?dl=1",
+    "description": "¿Eres nuev@ en Minecraft? Es un mundo digital en el que puedes hacer diferentes cosas creativas. Este video te explica como funciona el video juego.",
+    "level": "Fácil",
+    "url": " https://youtu.be/u1NoPGjAG78",
+    "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+  }
+  ],
+  "courses":[
+    {
+      "id": "scratch-four",
+      "name": "Anima un nombre",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/s/djv9u0up2nrfawb/anima_un_nombre.jpg?dl=1",
+      "description": "Crea tu propio nombre de diferentes letras divertidas. ¡Utiliza tu imaginación!",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=name",
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+    },
+    {
+      "id": "scratch-fourteen",
+      "name": "Usar las flechas",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACzSnpcBgie3Sf2uq8geK6sa/Im%C3%A1genes%20para%20el%20sitio%20web/usar_flechas.jpg?dl=1",
+      "description": "¿Quieres hacer mover a tus objetos? En esta clase aprendes a elegir la dirección del personaje utilizando las flechas.",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=arrow-keys",
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+    },
+    {
+      "id": "one",
+      "name": "Crear diapositivas",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADTIpFLwJIli2_moyYPRjuja/Im%C3%A1genes%20para%20el%20sitio%20web/google-presentations.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACugQ2ixGn1Olgq4SuFz5r9a/Im%C3%A1genes%20para%20el%20sitio%20web/crear%20diapositivas.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes crear diapositivas en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://youtu.be/UTSotX_Saa4",
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAA6StZ3yrSgADW2IPMdflnBa/Im%C3%A1genes%20para%20el%20sitio%20web/rectangle.png?dl=1"
+
+    },
+    {
+      "id": "googlepresentations-two",
+      "name": "Insertar imágenes",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADTIpFLwJIli2_moyYPRjuja/Im%C3%A1genes%20para%20el%20sitio%20web/google-presentations.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAC_64iRZ3m3rtI-Cbay7O8Xa/Im%C3%A1genes%20para%20el%20sitio%20web/insertar%20im%C3%A1genes.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes insertar imágenes en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://youtu.be/EDb1SY1Toxk",
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAA6StZ3yrSgADW2IPMdflnBa/Im%C3%A1genes%20para%20el%20sitio%20web/rectangle.png?dl=1"
+    },
+    {
+      "id": "googlepresentations-three",
+      "name": "Usar temas",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADTIpFLwJIli2_moyYPRjuja/Im%C3%A1genes%20para%20el%20sitio%20web/google-presentations.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABM0mZc6rkTKY2cfTrM_hCIa/Im%C3%A1genes%20para%20el%20sitio%20web/usar%20temas.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes usar temas en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/watch?v=XQpQ_KTisg0",
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAA6StZ3yrSgADW2IPMdflnBa/Im%C3%A1genes%20para%20el%20sitio%20web/rectangle.png?dl=1"
+    },
+    {
+      "id": "scratch-sixteen",
+      "name": "Sensor de video",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADKgw4jHogpu04yXQtVD2vKa/Im%C3%A1genes%20para%20el%20sitio%20web/sensor_de_video.jpg?dl=1",
+      "description": "¿Quieres ser parte de tu programa en Scratch? Eso es posible con tu webcam. En esta clase aprenderás cómo añadir tu propio video.",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=video-sensing",
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAA6StZ3yrSgADW2IPMdflnBa/Im%C3%A1genes%20para%20el%20sitio%20web/rectangle.png?dl=1"
+    },
+    {
+      "id": "codeorg-two",
+      "name": "Código Flappy",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADBnOmS1zY03p5HUfjO6JCsa/Im%C3%A1genes%20para%20el%20sitio%20web/flappy.jpg?dl=1",
+      "description": "¿Has oído del juego FlappyBird? ¡Mediante el uso de controladores de eventos, vamos a aprender a programar nuestra propia versión personalizada de FlappyBird!",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/flappy/1",
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+    },
+    {
+      "id": "codeorg-three",
+      "name": "Star Wars",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACU_5RoY4KBw02l_gNaFCaTa/Im%C3%A1genes%20para%20el%20sitio%20web/starwars.jpg?dl=1",
+      "description": "Vamos a construir nuestro propio juego de Star Wars. Para empezar, vamos a trabajar con Rey para programar al roboto BB-8 para que se mueva para recoger todos los trozos de chatarra.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1",
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+    },
+    {
+      "id": "codeorg-four",
+      "name": "Aventurero de Minecraft",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/s/z4yo2bd50muatpk/aventurero_de_minecraft.png?dl=1",
+      "description": "¿Conoces Minecraft? Es un mundo digital. Vas a aprender los fundamentos de la programación haciendo que Alex o Steve se muevan por un tramo simulado de un mundo de Minecraft.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/mc/stage/1/puzzle/1",
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+    },
+    {
+      "id": "scratch-five",
+      "name": "Crea música",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/s/ijiqg3tauzqfwcq/crea_musica.jpg?dl=1",
+      "description": "Utiliza Scratch para crear música. ¡Todo es possible, hasta una banda de gatos! ¿Qué vas a crear?",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=music",
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+    },
+    {
+      "id": "codeorg-eight",
+      "name": "Juego de Disney",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABILeH71Zi1g9nV3ErzVIypa/Im%C3%A1genes%20para%20el%20sitio%20web/Laberinto_Disney.jpg?dl=1",
+      "description": "Hoy vas a crear una historia con personajes de Disney como Ana, Elsa, Hiro, Baymax y Rapunzel.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/infinity/stage/1/puzzle/1",
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADAh4-uZozQlBQGA1oAwcr0a/Im%C3%A1genes%20para%20el%20sitio%20web/traingle.png?dl=1"
+    },
+    {
+      "id": "googledocs-one",
+      "name": "Salto de página",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAAmG-5WDxcL3lnzZCwmhmaxa/Im%C3%A1genes%20para%20el%20sitio%20web/google-docs.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABCRG0-YYQmEsW2XOSs_eADa/Im%C3%A1genes%20para%20el%20sitio%20web/salto%20de%20p%C3%A1gina.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes hacer un salto de página en Google Documentos.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured",
+      "type": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAA6StZ3yrSgADW2IPMdflnBa/Im%C3%A1genes%20para%20el%20sitio%20web/rectangle.png?dl=1"
+    }
+  ],
+  "scratch":[
+    {
+      "id": "one",
+      "name": "¿Cómo comenzar?",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/s/ydwjeldznytvafa/como_comenzar.jpg?dl=1",
+      "description": "Tienes que prestar atención de donde provienen los bloques para utilizarlos en los siguientes cursos",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=getStarted"
+    },
+    {
+      "id": "two",
+      "name": "Crea animaciones que hablen",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/s/w3pzuh7l785pl5b/animacion_que_habla.jpg?dl=1",
+      "description": "¿Quieres crear una animación donde tus personajes hablan? ¡Esta es tu clase! Haz que tus personajes hablen en voz alta.",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=animations-that-talk"
+    },
+    {
+      "id": "three",
+      "name": "Cuentos que hablen",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/s/98gduosuoum6kd4/cuentos_que_hablen.png?dl=1",
+      "description": "Tus personajes pueden tener una conversación escrita en Scratch. En esta clase aprendes cómo hacer que tus personajes hablen en texto.",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=talking"
+    },
+    {
+      "id": "four",
+      "name": "Anima un nombre",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAD4fcqrOBqSsyds_BcrhAbwa/Im%C3%A1genes%20para%20el%20sitio%20web/anima_un_nombre.jpg?dl=1",
+      "description": "Crea tu propio nombre de diferentes letras divertidas. ¡Utiliza tu imaginación!",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=name"
+    },
+    {
+      "id": "five",
+      "name": "Crea música",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/s/ijiqg3tauzqfwcq/crea_musica.jpg?dl=1",
+      "description": "Utiliza Scratch para crear música. ¡Todo es possible, hasta una banda de gatos! ¿Qué vas a crear?",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=music"
+    },
+    {
+      "id": "six",
+      "name": "Crea una historia",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/s/athga8x989cdioj/crea_una_historia.jpg?dl=1",
+      "description": "Crea tu propia historia en Scratch. ¡Todo es possible!",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=tell-a-story"
+    },
+    {
+      "id": "seven",
+      "name": "Juego de pong",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADW9D0GcO_aLMOY_8lbhPh2a/Im%C3%A1genes%20para%20el%20sitio%20web/scratch_juego_de_pong.jpg?dl=1",
+      "description": "El juego de pong es super divertido para jugar, y aún más para programarlo. ¡En esta clase lo vas a hacer!",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=pong"
+    },
+    {
+      "id": "eight",
+      "name": "Cambiar tamaño",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/s/8wqizxfe90zcezr/Cambiar_tama%C3%B1o.jpg?dl=1",
+      "description": "Aprende cómo hacer crecer y reducir el tamaño de un objeto.",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=change-size"
+    },
+    {
+      "id": "nine",
+      "name": "Deslizar alrededor",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/s/hzzp4y5fmg3pvto/deslizar_alrededor.jpg?dl=1",
+      "description": "En esta clase vas a ver cómo hacer que tu personaje se mueva por todos lados. ¿Será que se maree?",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=glide-around"
+    },
+    {
+      "id": "ten",
+      "name": "Grabar un sonido",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABX5GOmNtLHVHRcI0XZhJWra/Im%C3%A1genes%20para%20el%20sitio%20web/grabar_sonido.jpg?dl=1",
+      "description": "¿Sabías que puedes grabar tu propio sonido en Scratch? ¡Si! Eso aprenderás en esta clase.",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=record-a-sound"
+    },
+    {
+      "id": "eleven",
+      "name": "Hazlo girar",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADFtB5ZKZqe411-xNJXVZ2ia/Im%C3%A1genes%20para%20el%20sitio%20web/hazlo_girar.jpg?dl=1",
+      "description": "Gira a tu personaje. ¿A ver si le puedes hacer girar 10 veces?",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=make-it-spin"
+    },
+    {
+      "id": "twelve",
+      "name": "Ocultar y mostrar",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAD5bq59QAZGBaGi6BGdabdJa/Im%C3%A1genes%20para%20el%20sitio%20web/ocultar_mostrar.jpg?dl=1",
+      "description": "Una cosa divertida que te ayudará en tus juegos y cuentos en Scratch es hacer ocultar y mostrar a los objetos. Eso aprendes hacer en esta clase.",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=hide"
+    },
+    {
+      "id": "thirteen",
+      "name": "Anima un objeto",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/s/s3k424i46citrd8/anima_objeto.jpg?dl=1",
+      "description": "¿A ti te gusta quedarte en mismo lugar siempre? Nooo.... A los objetos en Scratch tampoco. ¡Elige un sprite y hazlo mover!",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=animate-a-sprite"
+    },
+    {
+      "id": "fourteen",
+      "name": "Usar las flechas",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACzSnpcBgie3Sf2uq8geK6sa/Im%C3%A1genes%20para%20el%20sitio%20web/usar_flechas.jpg?dl=1",
+      "description": "¿Quieres hacer mover a tus objetos? En esta clase aprendes a elegir la dirección del personaje utilizando las flechas.",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=arrow-keys"
+    },
+    {
+      "id": "fifteen",
+      "name": "Añade efectos",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/s/km61ybtdva85vuj/a%C3%B1ade_efectos.jpg?dl=1",
+      "description": "Aprende a añadir efectos a los objetos. Esto podrás utilizar en todos tus juegos, cartas y cuentos.",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=add-effects"
+    },
+    {
+      "id": "sixteen",
+      "name": "Sensor de video",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADKgw4jHogpu04yXQtVD2vKa/Im%C3%A1genes%20para%20el%20sitio%20web/sensor_de_video.jpg?dl=1",
+      "description": "¿Quieres ser parte de tu programa en Scratch? Eso es posible con tu webcam. En esta clase aprenderás cómo añadir tu propio video.",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=video-sensing"
+    },
+    {
+      "id": "seventeen",
+      "name": "Agrega un objeto",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/s/xud5sokcf6oc9lb/agrega_objeto.jpg?dl=1",
+      "description": "Elige un personaje de las opciones que Scratch te da. ¿Cuál eliges vos?",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=add-a-sprite"
+    },
+    {
+      "id": "eighteen",
+      "name": "Agrega un fondo",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/s/yv55fh90s1wl97e/agrega_fondo.jpg?dl=1",
+      "description": "Haz tu programa en Scratch más interesante con un fondo divertido.",
+      "level": "Fácil",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=add-a-backdrop"
+    },
+    {
+      "id": "nineteen",
+      "name": "Imagina un mundo",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAAmH4CEBrl5JDTm24e0K4f1a/Im%C3%A1genes%20para%20el%20sitio%20web/scratch_imagina_un_mundo.jpg?dl=1",
+      "description": "Imagina un mundo donde todo es possible. Un león tocando gitarra o una escuela volando. ¡En esta clase vas a crear el mundo de tu imaginación!",
+      "level": "Intermedio",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=imagine"
+    },
+    {
+      "id": "twenty",
+      "name": "Programa una caricatura",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAATnZ8RCFw9oN-PS_Y-C3HGa/Im%C3%A1genes%20para%20el%20sitio%20web/programa_caricatura.jpg?dl=1",
+      "description": "¿Alguna vez has querido tener aventuras con tu caricatura? En esta clase vas a programar tu propia caricatura.",
+      "level": "Intermedio",
+      "url": "https://scratch.mit.edu/projects/331474033/editor?tutorial=code-cartoon"
+    },
+    {
+      "id": "twentyone",
+      "name": "Haz un juego de perseguir",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADndW3CYMj7mw_aYSgy2Pv9a/Im%C3%A1genes%20para%20el%20sitio%20web/haz_un_juego_perseguir.jpg?dl=1",
+      "description": "Es muy divertido crear tu propio juego. En esta clase vas a crear tu propio juego de perseguir.",
+      "level": "Intermedio",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=chase-game"
+    },
+    {
+      "id": "twentytwo",
+      "name": "Anima un personaje",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/s/7h8yvafr2dcwnbe/anima_personaje.jpg?dl=1",
+      "description": "Aprende a animar un personaje y ¡lo podrás utilizar en todos los juegos, cuentos y cartas que vas a crear en Scratch!",
+      "level": "Intermedio",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=animate-a-character"
+    },
+    {
+      "id": "twentytree",
+      "name": "Haz un juego de cliquear",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADv9KahTaJJwJqkr13uiE4ra/Im%C3%A1genes%20para%20el%20sitio%20web/juego_de_cliquear.jpg?dl=1",
+      "description": "¿Te gustan los juegos? En esta clase vas a crear un juego de cliquear.",
+      "level": "Intermedio",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=clicker-game"
+    },
+    {
+      "id": "twentyfour",
+      "name": "Hazlo volar",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADE3DNg56EXA8VkQ7qydTqRa/Im%C3%A1genes%20para%20el%20sitio%20web/scratch_hazlo_volar.jpg?dl=1",
+      "description": "Crea un juego súper divertido donde vas a hacer volar a un gato. ¡El gato no puede chocar con los edificios!",
+      "level": "Intermedio",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=make-it-fly"
+    },
+    {
+      "id": "twentyfive",
+      "name": "Anima un juego de aventura",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADXpfctuIWepsBr7M6WMqhia/Im%C3%A1genes%20para%20el%20sitio%20web/scratch-logo.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACotEwpnUCZKeFJdVmQpItsa/Im%C3%A1genes%20para%20el%20sitio%20web/juego-aventura.jpg?dl=1",
+      "description": "¡Vamos de aventura! Anima tu propio juego de aventura.",
+      "level": "Intermedio",
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=animate-an-adventure-game"
+    }
+  ],
+  "codeorg":[ 
+    {
+      "id": "one",
+      "name": "Fiesta de baile",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/s/xb4ek0qhaegtoor/codeorg-fiesta-de-baile-1.jpeg?dl=1",
+      "description": "Usarás bloques de código para crear una fiesta de baile. Vas a elegir diferentes bailarines, cambiar sus movimientos de baile y hacerlos responder a la música.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/dance-2019/stage/1/puzzle/1"
+    },
+    {
+      "id": "two",
+      "name": "Código Flappy",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADBnOmS1zY03p5HUfjO6JCsa/Im%C3%A1genes%20para%20el%20sitio%20web/flappy.jpg?dl=1",
+      "description": "¿Has oído del juego FlappyBird? ¡Mediante el uso de controladores de eventos, vamos a aprender a programar nuestra propia versión personalizada de FlappyBird!",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/flappy/1"
+    },
+    {
+      "id": "three",
+      "name": "Star Wars",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACU_5RoY4KBw02l_gNaFCaTa/Im%C3%A1genes%20para%20el%20sitio%20web/starwars.jpg?dl=1",
+      "description": "Vamos a construir nuestro propio juego de Star Wars. Para empezar, vamos a trabajar con Rey para programar al roboto BB-8 para que se mueva para recoger todos los trozos de chatarra.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1"
+    },
+    {
+      "id": "four",
+      "name": "Aventurero de Minecraft",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAD5E2CEHfBaFBoDnSVL3P4Ya/Im%C3%A1genes%20para%20el%20sitio%20web/aventurero_de_minecraft.png?dl=1",
+      "description": "¿Conoces Minecraft? Es un mundo digital. Vas a aprender los fundamentos de la programación haciendo que Alex o Steve se muevan por un tramo simulado de un mundo de Minecraft.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/mc/stage/1/puzzle/1"
+    },
+    {
+      "id": "five",
+      "name": "Juego de baloncesto",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAA1Fi3TYIVry28IT-Kijt_na/Im%C3%A1genes%20para%20el%20sitio%20web/juego_baloncesto.png?dl=1",
+      "description": "¡Vas a crear tu propio juego de baloncesto!",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/basketball/stage/1/puzzle/1"
+    },
+    {
+      "id": "six",
+      "name": "Fiesta de Baile 2",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/s/w3a65fqjzbt5ep9/codeorg-fiesta-de-baile-2.png?dl=1",
+      "description": "¡Sigue bailando! ¿Qúe bailes vas a crear esta vez?",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/dance-extras-2019/stage/1/puzzle/2"
+    },
+    {
+      "id": "seven",
+      "name": "Angry Bird Laberinto",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADvWQUjUdA3nLkSKiZA5D8Ea/Im%C3%A1genes%20para%20el%20sitio%20web/laberinto_angry_bird.png?dl=1",
+      "description": "¿Conoces Angry Bird? En esta clase vas a guiar un Angry Bird a través de un laberinto para golpear al cerdo verde.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/hoc/1"
+    },
+    {
+      "id": "eight",
+      "name": "Juego de Disney",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABILeH71Zi1g9nV3ErzVIypa/Im%C3%A1genes%20para%20el%20sitio%20web/Laberinto_Disney.jpg?dl=1",
+      "description": "Hoy vas a crear una historia con personajes de Disney como Ana, Elsa, Hiro, Baymax y Rapunzel.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/infinity/stage/1/puzzle/1"
+    },
+    {
+      "id": "nine",
+      "name": "Diseñador de Minecraft",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/s/u2b2x4z07rlrwoj/disenador_de_minecraft.jpg?dl=1",
+      "description": "¡El juego de Minecraft se congeló! ¿Ayudarás en añadir movimiento al mundo Minecraft otra vez? ",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/minecraft/stage/1/puzzle/1"
+    },
+    {
+      "id": "ten",
+      "name": "Crea tu juego",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACau5dKMtty8gLB1tT2puHCa/Im%C3%A1genes%20para%20el%20sitio%20web/lab_juegos_clasico.png?dl=1",
+      "description": "En esta clase ¡vas a crear tu propio juego! ¿Estás list@? ",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/playlab/stage/1/puzzle/1"
+    },
+    {
+      "id": "eleven",
+      "name": "Frozen",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAB59AZr1JInA55Q02TUqQKza/Im%C3%A1genes%20para%20el%20sitio%20web/frozen.jpg?dl=1",
+      "description": "¿Estás list@ para entrar a un mundo congelado? En esta clase vas a dibujar con Elsa en patines.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/frozen/stage/1/puzzle/1"
+    },
+    {
+      "id": "twelve",
+      "name": "Minecraft Viaje Aquatico",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABLHVDyKgqkkOnQQ57GS5tFa/Im%C3%A1genes%20para%20el%20sitio%20web/voyage_aquatic_minecraft.jpg?dl=1",
+      "description": "¡Bienvenid@, aventurer@! Vas a ayudar en una búsqueda para encontrar un tesoro submarino oculto. Todo en el mundo de Minecraft.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/aquatic/stage/1/puzzle/1"
+    },
+    {
+      "id": "thirteen",
+      "name": "Juego de Gumball",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACRYuiFK7kDaXgBa7yhVTKLa/Im%C3%A1genes%20para%20el%20sitio%20web/lab_juegos_gumball.png?dl=1",
+      "description": "En esta clase van a crear un juego de Gumball. ¡Buena suerte!",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/gumball/stage/1/puzzle/1"
+    },
+    {
+      "id": "fourteen",
+      "name": "Minecraft: Viaje del Héroe",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACCDeg7EBa8avfvnub2btNIa/Im%C3%A1genes%20para%20el%20sitio%20web/viaje_del_heroe.jpg?dl=1",
+      "description": "¿Alguien sabe cómo escribir código en Minecraft? Bueno, eso vas a aprender en esta clase.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/hero/stage/1/puzzle/1"
+    },
+    {
+      "id": "fifteen",
+      "name": "Artista",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/s/ciwtjv5c8qyjzor/Artista.jpg?dl=1",
+      "description": "¿Programación y dibujar una buena combinación? ¡Si! Ya vas a ver en esta clase.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/artist/stage/1/puzzle/1"
+    },
+    {
+      "id": "sixteen",
+      "name": "La Era de Hielo",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACSBr09_7bx1sPE4JJsobKRa/Im%C3%A1genes%20para%20el%20sitio%20web/lab_juegos_iceage.png?dl=1",
+      "description": "¿List@ para una aventura en hielo? Vas a crear tu propio juego en la era de hielo.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/iceage/stage/1/puzzle/1"
+    },
+    {
+      "id": "seventeen",
+      "name": "Inteligencia Artificial",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAC_gs72Kv7mPPKAQPxywuy6a/Im%C3%A1genes%20para%20el%20sitio%20web/inteligencia-artificial-oceano.png?dl=1",
+      "description": "¡Limpiemos el océano! En esta actividad programarás o entrenarás a inteligencia artificial para identificar peces o basura.",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/oceans/stage/1/puzzle/1"
+    },
+    {
+      "id": "eighteen",
+      "name": "Juego de Deportes",
+      "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxlgGVKE_Ym7SqUmIRCADUa/Im%C3%A1genes%20para%20el%20sitio%20web/code-org.png?dl=1",
+      "image": "https://www.dropbox.com/s/w3a65fqjzbt5ep9/codeorg-fiesta-de-baile-2.png?dl=1",
+      "description": "¡Programa tu propio juego de deporte!",
+      "level": "Intermedio",
+      "url": "https://studio.code.org/s/sports/stage/1/puzzle/1"
+    }
+  ],
+  "google":[ 
+    {
+      "id": "one",
+      "name": "Crear una cuenta de Google",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADfFCleMO7CwmR3SQWPhCcSa/Im%C3%A1genes%20para%20el%20sitio%20web/google.png?dl=1",
+      "image":"https://www.dropbox.com/s/qs00ngfsal7z9ux/crear%20una%20cuenta.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes crear una cuenta de Google.",
+      "level": "Fácil",
+      "url": "https://youtu.be/dEwY4wAoaXk"
+    },
+    {
+      "id": "two",
+      "name": "Aplicaciones de Google",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADfFCleMO7CwmR3SQWPhCcSa/Im%C3%A1genes%20para%20el%20sitio%20web/google.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACvSGozi_ywDQFqloPp5PnUa/Im%C3%A1genes%20para%20el%20sitio%20web/aplicaciones%20de%20google.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar algunas cosas sobre las aplicaciones de Google.",
+      "level": "Fácil",
+      "url": "https://youtu.be/zPz8WYsoHD8"
+    },
+    {
+      "id": "three",
+      "name": "Usar Gmail",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADfFCleMO7CwmR3SQWPhCcSa/Im%C3%A1genes%20para%20el%20sitio%20web/google.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADLbheTPeYbYLKdEH4kG5Bua/Im%C3%A1genes%20para%20el%20sitio%20web/gmail.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar algunas cosas sobre Gmail.",
+      "level": "Fácil",
+      "url": "https://youtu.be/lrkKCaLFKv8"
+    }
+    ],
+    "googlepresentations": [
+    {
+      "id": "one",
+      "name": "Crear diapositivas",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADTIpFLwJIli2_moyYPRjuja/Im%C3%A1genes%20para%20el%20sitio%20web/google-presentations.png?dl=1",
+      "image":"https://www.dropbox.com/s/eqwvz24xuhtq68s/crear%20diapositivas.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes crear diapositivas en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://youtu.be/UTSotX_Saa4"
+    },
+    {
+      "id": "two",
+      "name": "Insertar imágenes",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADTIpFLwJIli2_moyYPRjuja/Im%C3%A1genes%20para%20el%20sitio%20web/google-presentations.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAC_64iRZ3m3rtI-Cbay7O8Xa/Im%C3%A1genes%20para%20el%20sitio%20web/insertar%20im%C3%A1genes.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes insertar imágenes en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://youtu.be/EDb1SY1Toxk"
+    },
+    {
+      "id": "three",
+      "name": "Usar temas",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADTIpFLwJIli2_moyYPRjuja/Im%C3%A1genes%20para%20el%20sitio%20web/google-presentations.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABM0mZc6rkTKY2cfTrM_hCIa/Im%C3%A1genes%20para%20el%20sitio%20web/usar%20temas.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes usar temas en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/watch?v=XQpQ_KTisg0"
+    },
+    {
+      "id": "four",
+      "name": "Usar transiciones",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADTIpFLwJIli2_moyYPRjuja/Im%C3%A1genes%20para%20el%20sitio%20web/google-presentations.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABCD8Ct1K4dSgFODkcIigina/Im%C3%A1genes%20para%20el%20sitio%20web/usar%20transiciones.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes usar transiciones en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/watch?v=i_irYQpQefA"
+    },
+    {
+      "id": "five",
+      "name": "Editar texto",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADTIpFLwJIli2_moyYPRjuja/Im%C3%A1genes%20para%20el%20sitio%20web/google-presentations.png?dl=1",
+      "image":"https://www.dropbox.com/s/r9vycddxm7fxjd3/editar%20texto.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes editar texto en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/watch?v=5DlqeWXUvRA"
+    },
+    {
+      "id": "six",
+      "name": "Explorar",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADTIpFLwJIli2_moyYPRjuja/Im%C3%A1genes%20para%20el%20sitio%20web/google-presentations.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAC8sqjFvI_We8aNMRJVJ898a/Im%C3%A1genes%20para%20el%20sitio%20web/explorar.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes usar el botón de explorar en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/watch?v=4QSKdQsUcps"
+    },
+    {
+      "id": "seven",
+      "name": "Presentación completa",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADTIpFLwJIli2_moyYPRjuja/Im%C3%A1genes%20para%20el%20sitio%20web/google-presentations.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABGzfodCKlvfzB72rynt-47a/Im%C3%A1genes%20para%20el%20sitio%20web/presentaci%C3%B3n%20completa.png?dl=1",
+      "description": "En este video Profe Suzy va a crear una presentación completa en Google Presentaciones.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/watch?v=0kKC0O0rLjw"
+    }
+    ],
+    "googledocs":[
+    {
+      "id": "one",
+      "name": "Salto de página",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAAmG-5WDxcL3lnzZCwmhmaxa/Im%C3%A1genes%20para%20el%20sitio%20web/google-docs.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABCRG0-YYQmEsW2XOSs_eADa/Im%C3%A1genes%20para%20el%20sitio%20web/salto%20de%20p%C3%A1gina.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes hacer un salto de página en Google Documentos.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    },
+    {
+      "id": "two",
+      "name": "Insertar imágenes",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAAmG-5WDxcL3lnzZCwmhmaxa/Im%C3%A1genes%20para%20el%20sitio%20web/google-docs.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAATFd0Lb39tM7WP723sfWxEa/Im%C3%A1genes%20para%20el%20sitio%20web/insertar%20imagenes%20gd.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes insertar imágenes en Google Documentos.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    },
+    {
+      "id": "three",
+      "name": "Explorar",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAAmG-5WDxcL3lnzZCwmhmaxa/Im%C3%A1genes%20para%20el%20sitio%20web/google-docs.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AACVzSwCF_bLNMFtYjimszOwa/Im%C3%A1genes%20para%20el%20sitio%20web/explorar%20gd.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes usar el botón explorar en Google Documentos.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    },
+    {
+      "id": "four",
+      "name": "Fuente de letras",
+      "logo":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAAmG-5WDxcL3lnzZCwmhmaxa/Im%C3%A1genes%20para%20el%20sitio%20web/google-docs.png?dl=1",
+      "image":"https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADFFwue0XLCalSDxeMp1l0fa/Im%C3%A1genes%20para%20el%20sitio%20web/fuente%20de%20letras.png?dl=1",
+      "description": "En este video Profe Suzy va a explicar cómo puedes cambiar fuentes de letras en Google Documentos.",
+      "level": "Fácil",
+      "url": "https://www.youtube.com/channel/UCcEcmhkUhx4T663twEUZu_g/featured"
+    }
+    ],
+    "minecraft":[ 
+      {
+        "id": "one",
+        "name": "Minecraft",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABf9vl08AYXoY1DAqNd18vAa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_inicio.jpg?dl=1",
+        "description": "¿Eres nuev@ en Minecraft? Es un mundo digital en el que puedes hacer diferentes cosas creativas. Este video te explica como funciona el video juego.",
+        "level": "Fácil",
+        "url": "https://www.youtube.com/watch?v=u1NoPGjAG78"
+      },
+      {
+        "id": "two",
+        "name": "Modo supervivencia",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABgetcj3vZ6ag7Ccad41qtka/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_modo_supervivencia.jpg?dl=1",
+        "description": "¿Estás empezando con Minecraft? ¡El modo supervivencia es súper cool! Este video explica en detalle todo sobre este modo de Minecraft.",
+        "level": "Fácil",
+        "url": "https://www.youtube.com/watch?v=zkZysbbsXrQ"
+      },
+      {
+        "id": "three",
+        "name": "Construye tu casa",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPVPw6mSM5qXwoFuDplJAoa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_construye_tu_casa.jpg?dl=1",
+        "description": "¿Vas a construir tu primera casa de Minecraft? Tal vez puedes usar este tutorial para hacerlo, será una casa bonita y no cuesta mucho construirla.",
+        "level": "Fácil",
+        "url": "https://www.youtube.com/watch?v=iUF4aUf_vcU"
+      },
+      {
+        "id": "four",
+        "name": "Construcciones bonitas",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAB9tvgGNrBQR3IRWP5-_ciDa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_construcciones_bonitas.jpg?dl=1",
+        "description": "En este tutorial vas a hacer más tipos de construcciones, como una bodega y un pozo. Aprenderás cómo hacer construcciones bonitas para añadir a tu mundo de Minecraft.",
+        "level": "Fácil",
+        "url": "https://youtu.be/rSJX77_ykBs"
+      },
+      {
+        "id": "five",
+        "name": "Decoraciones rosadas",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADxGHKadakT3oUyuv_A-O4ba/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_decoraciones_rosadas.jpg?dl=1",
+        "description": "¿Necesitas más color en tu mundo de Minecraft? Este video está enfocado en construcciones rosadas muy bonitas. ",
+        "level": "Fácil",
+        "url": "https://youtu.be/fSmS0sq-ivQ"
+      },
+      {
+        "id": "six",
+        "name": "Construye tu jardin",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADPK2Uxp0OAMd77_rhMXOzXa/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_logo.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADtm_92xTcFBcYcdBbLMcKra/Im%C3%A1genes%20para%20el%20sitio%20web/minecraft_construye_tu_jardin.jpg?dl=1",
+        "description": "Si te gusta la naturaleza este video es para tí. En este video hay 3 ideas para implementar en tu jardín de Minecraft y hacerlo súper bonito.",
+        "level": "Fácil",
+        "url": "https://youtu.be/sJeQJIT5Cew"
+      }
+    ],
+    "csfirst":[ 
+      {
+        "id": "one",
+        "name": "Codifica a tu héroe",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADWXBkaISlKmDtlIxtdMm_la/Im%C3%A1genes%20para%20el%20sitio%20web/cd-first-google-square-black.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAB539tsFkWJvVUFyjOOtSQZa/Im%C3%A1genes%20para%20el%20sitio%20web/hoc_code_your_hero.png?dl=1",
+        "description": "¿Quién es tu héroe? Convierte a un héroe cotidiano en un superhéroe.",
+        "level": "Fácil",
+        "url": "https://csfirst.withgoogle.com/c/cs-first/en/code-your-hero/codifica-a-tu-h%C3%A9roe/introducci%C3%B3n-de-h%C3%A9roe-a-superh%C3%A9roe.html"
+      },
+      {
+        "id": "two",
+        "name": "Un descubrimiento inusual",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADWXBkaISlKmDtlIxtdMm_la/Im%C3%A1genes%20para%20el%20sitio%20web/cd-first-google-square-black.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAAArJ0AAuSeoHG6H1aAfs5ma/Im%C3%A1genes%20para%20el%20sitio%20web/hoc_discovery_icon.png?dl=1",
+        "description": "Inventa una historia y hazlo real en código. ¿Qué historia inventarás?",
+        "level": "Intermedio",
+        "url": "https://csfirst.withgoogle.com/c/cs-first/en/an-unusual-discovery/un-descubrimiento-inusual/un-descubrimiento-inusual.html"
+      },
+      {
+        "id": "three",
+        "name": "Comparte tu pasión",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADWXBkaISlKmDtlIxtdMm_la/Im%C3%A1genes%20para%20el%20sitio%20web/cd-first-google-square-black.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADkHI-TKHeAxFUMaZDahIQva/Im%C3%A1genes%20para%20el%20sitio%20web/hoc_pitch_your_passion.png?dl=1",
+        "description": "¿Qué te apasiona? En esta clase vas a compartir un mensaje sobre algo que te interesa mucho. ",
+        "level": "Intermedio",
+        "url": "https://csfirst.withgoogle.com/c/cs-first/en/pitch-your-passion/comparte-tu-pasi%C3%B3n/comparte-tu-pasi%C3%B3n.html"
+      },
+      {
+        "id": "four",
+        "name": "Comparte tu mensaje",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADWXBkaISlKmDtlIxtdMm_la/Im%C3%A1genes%20para%20el%20sitio%20web/cd-first-google-square-black.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AABWP6lGAwFPVG8N9u11oTcDa/Im%C3%A1genes%20para%20el%20sitio%20web/hoc_public_service_announcement.png?dl=1",
+        "description": "Si quieres mejorar el mundo necesitas apoyo de tu comunidad. Crea un proyecto en el que pides a la gente que haga algo para apoyar una causa o problema que es importante para ti. ",
+        "level": "Intermedio",
+        "url": "https://csfirst.withgoogle.com/c/cs-first/en/pitch-your-passion/comparte-tu-pasi%C3%B3n-anuncio-de-servicio-p%C3%BAblico/anuncio-de-servicio-p%C3%BAblico.html"
+      },
+      {
+        "id": "five",
+        "name": "Anima un nombre",
+        "logo": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AADWXBkaISlKmDtlIxtdMm_la/Im%C3%A1genes%20para%20el%20sitio%20web/cd-first-google-square-black.png?dl=1",
+        "image": "https://www.dropbox.com/sh/c0mcj85l6jdd7vs/AAByBF2kK6tPzMv2GAsIgtx0a/Im%C3%A1genes%20para%20el%20sitio%20web/hoc_name_icon.png?dl=1",
+        "description": "Usa secuencias, eventos y bucles para animar tu nombre. ¡Vas a ver a tu nombre bailando!",
+        "level": "Fácil",
+        "url": "https://csfirst.withgoogle.com/c/cs-first/en/animate-a-name/animar-un-nombre/animar-un-nombre.html"
+      }
+    ]
+}
